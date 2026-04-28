@@ -1,27 +1,34 @@
-# Hi there, I'm Trupti Suppan 👋
+<h1 align="center">Hey, I'm Trupti 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480"/>
 </p>
 
-🎓 B.Tech Computer Science student at **Usha Mittal Institute of Technology, Mumbai**
-💡 Passionate about **Full-Stack Development** | Minor in **AR/VR**
-🔍 Actively seeking **internship opportunities** in software engineering
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&width=500&lines=Full-Stack+Dev+in+Progress+%F0%9F%9A%80;Hackathon+Addict+%F0%9F%8F%86;CS+Student+%40+UMIT+Mumbai" />
+</p>
 
 ---
 
-## 🚀 About Me
+I'm a second-year CS student at UMIT Mumbai who genuinely enjoys building things — not just for assignments, but because I like seeing an idea turn into something real. My current focus is full-stack development, and I've been getting into the React + Node.js + PostgreSQL stack lately.
 
-I'm a CS student oriented toward full-stack development, with hands-on experience building academic projects and competing in national-level hackathons. I enjoy solving real-world problems through code and love turning ideas into functional, impactful applications.
+Outside of classes, I spend a lot of time in hackathons (sometimes more than I probably should 😅). It's where I do some of my best learning — fast deadlines, real problems, and great people to build with.
 
-- 🌱 Currently learning and building with **React**, **Node.js**, and **PostgreSQL**
-- 🏆 Hackathon enthusiast — **Top 50 in Smart India Hackathon 2025**, **Top 100 across India in KLEOS 3.0**
-- 👩‍💼 Junior Council Member, Student Council | Social Media Rep, ACM-W
-- 📫 Reach me at: **truptisuppan99@gmail.com** | 📍 Mumbai, India
+I'm currently looking for an internship where I can contribute, learn from experienced engineers, and work on things that actually matter.
 
 ---
 
-## 🛠️ Tech Stack
+## a bit more about me
+
+- 🎓 B.Tech CS @ Usha Mittal Institute of Technology | Minor in **AR/VR**
+- 🌱 Getting better at React, Node.js, and databases every day
+- 🏆 Top 50 in Smart India Hackathon 2025 · Top 100 in KLEOS 3.0 across India
+- 👩‍💼 Junior Council Member (Student Council) · Social Media Rep (ACM-W)
+- 📍 Mumbai · 📬 truptisuppan99@gmail.com
+
+---
+
+## 🛠️ what I work with
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -52,33 +59,32 @@ I'm a CS student oriented toward full-stack development, with hands-on experienc
 
 ---
 
-## 📂 Featured Projects
+## 📂 things I've built
 
-### 🌞 HELIOS – Todo Application
-> A productivity web app with creative animations inspired by celestial bodies.
-- Built an engaging frontend prototype focused on UX and smooth animations
-- **Tech:** HTML, CSS, JavaScript, React
-
----
-
-### 🗺️ HerMap – Smart Pathways & Predictive Safety Mapping for Women
-> A GIS-enabled platform to visualize and assess women's distress data across urban areas.
-- Developed interactive maps with **Leaflet.js**, heatmaps, and customizable filters
-- Integrated risk-aware navigation and real-time alert systems
-- Designed spatio-temporal analysis models to track emerging high-risk areas
-- Secured APIs with role-based access control for data privacy
-- **Tech:** JavaScript, Leaflet.js, Node.js, PostgreSQL
+### 🌞 HELIOS — Todo App
+A productivity app I built with a twist — animations inspired by planets and celestial motion. Started as a hackathon project and ended up being one of my favourite things I've made.
+`HTML` `CSS` `JavaScript` `React`
 
 ---
 
-## 🏆 Hackathons
+### 🗺️ HerMap — Safety Mapping for Women
+A GIS platform that maps women's distress data to help identify unsafe areas and suggest safer routes. Built this with a team and it's probably the project I'm most proud of so far.
+- Interactive heatmaps using Leaflet.js
+- Real-time alert system + risk-aware navigation
+- Secure APIs with role-based access control
 
-| Event | Achievement | Role |
+`JavaScript` `Leaflet.js` `Node.js` `PostgreSQL`
+
+---
+
+## 🏆 hackathons
+
+| | Event | Result |
 |---|---|---|
-| **Smart India Hackathon 2025** | Top 50 Teams – Round 1 | Team Project |
-| **KLEOS 3.0 2024** | Top 100 Teams Across India | Team Project |
-| **OPENAI x NXTwave BUILDAthon 2025** | Qualified – State Level Maharashtra | Individual |
-| **KJSSE Hackathon 2025** | Participant | Frontend Developer |
+| 🥈 | Smart India Hackathon 2025 | Top 50 Teams – Round 1 |
+| 🏅 | KLEOS 3.0 2024 | Top 100 Teams Across India |
+| ⚡ | OPENAI x NXTwave BUILDAthon 2025 | Qualified – State Level Maharashtra |
+| 🛠️ | KJSSE Hackathon 2025 | Frontend Developer |
 
 ---
 
@@ -91,26 +97,18 @@ I'm a CS student oriented toward full-stack development, with hands-on experienc
 
 ---
 
-## 🎓 Education
+## 🎓 education
 
-**B.Tech in Computer Science Technology** — Usha Mittal Institute of Technology, Mumbai *(2026 – Present)*
-- SGPA: Sem 1 → 9.17 | Sem 2 → 8.98
-- Minor: Augmented Reality & Virtual Reality
+**B.Tech Computer Science** — UMIT, Mumbai *(2026 – present)* · Sem 1: 9.17 SGPA · Sem 2: 8.98 SGPA
 
-**HSC** — Shri T.P. Bhatia Junior College of Science *(2024)* — 83.3%
+**HSC** — Shri T.P. Bhatia Junior College *(2024)* · 83.3%
 
-**SSC** — Mary Immaculate Girls' High School *(2022)* — 86.8%
+**SSC** — Mary Immaculate Girls' High School *(2022)* · 86.8%
 
 ---
 
-## 🤝 Connect with Me
+## 📬 find me here
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trupti-supan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/TRUPTI135)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:truptisuppan99@gmail.com)
-
----
-
-<p align="center">
-  <i>"Building one commit at a time 🚀"</i>
-</p>
