@@ -1,7 +1,7 @@
 # Hi there, I'm Trupti Suppan 👋
 
 <p align="center">
-  <img src="https://tenor.com/view/animation-vs-animator-ava-animation-vs-coding-alan-becker-stickfigure-gif-15598803353712845748" width="500"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </p>
 
 🎓 B.Tech Computer Science student at **Usha Mittal Institute of Technology, Mumbai**
