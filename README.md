@@ -1,5 +1,9 @@
 # Hi there, I'm Trupti Suppan 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 🎓 B.Tech Computer Science student at **Usha Mittal Institute of Technology, Mumbai**
 💡 Passionate about **Full-Stack Development** | Minor in **AR/VR**
 🔍 Actively seeking **internship opportunities** in software engineering
